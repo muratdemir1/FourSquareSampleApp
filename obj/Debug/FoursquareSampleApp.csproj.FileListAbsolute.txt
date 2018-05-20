@@ -1,0 +1,8 @@
+C:\Users\com\source\repos\FoursquareSampleApp\FoursquareSampleApp\bin\FoursquareSampleApp.dll.config
+C:\Users\com\source\repos\FoursquareSampleApp\FoursquareSampleApp\bin\FoursquareSampleApp.dll
+C:\Users\com\source\repos\FoursquareSampleApp\FoursquareSampleApp\bin\FoursquareSampleApp.pdb
+C:\Users\com\source\repos\FoursquareSampleApp\FoursquareSampleApp\obj\Debug\FoursquareSampleApp.csprojResolveAssemblyReference.cache
+C:\Users\com\source\repos\FoursquareSampleApp\FoursquareSampleApp\obj\Debug\FoursquareSampleApp.csproj.CoreCompileInputs.cache
+C:\Users\com\source\repos\FoursquareSampleApp\FoursquareSampleApp\obj\Debug\FoursquareSampleApp.dll
+C:\Users\com\source\repos\FoursquareSampleApp\FoursquareSampleApp\obj\Debug\FoursquareSampleApp.pdb
+C:\Users\com\source\repos\FoursquareSampleApp\FoursquareSampleApp\bin\Newtonsoft.Json.dll
